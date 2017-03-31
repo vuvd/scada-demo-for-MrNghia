@@ -1,0 +1,5 @@
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\ConfigPLCModule\bin\Debug\ConfigPLCModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\ConfigPLCModule\bin\Debug\ConfigPLCModule.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\ConfigPLCModule\obj\Debug\ConfigPLCModule.csprojResolveAssemblyReference.cache
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\ConfigPLCModule\obj\Debug\ConfigPLCModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\ConfigPLCModule\obj\Debug\ConfigPLCModule.pdb

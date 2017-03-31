@@ -1,0 +1,5 @@
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModuleConfig\bin\Debug\CoreModuleConfig.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModuleConfig\bin\Debug\CoreModuleConfig.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModuleConfig\obj\Debug\CoreModuleConfig.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModuleConfig\obj\Debug\CoreModuleConfig.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModuleConfig\obj\Debug\CoreModuleConfig.csprojResolveAssemblyReference.cache

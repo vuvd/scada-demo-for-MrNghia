@@ -1,0 +1,13 @@
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\CoreModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\CoreModule.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\BLLModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\DALModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\EntityFramework.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\BLLModule.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\DALModule.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\DALModule.dll.config
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\obj\Debug\CoreModule.csprojResolveAssemblyReference.cache
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\obj\Debug\CoreModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\obj\Debug\CoreModule.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\CoreModuleConfig.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\CoreModule\bin\Debug\CoreModuleConfig.pdb

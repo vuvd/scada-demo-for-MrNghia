@@ -1,0 +1,8 @@
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\BLLModule\bin\Debug\BLLModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\BLLModule\bin\Debug\BLLModule.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\BLLModule\bin\Debug\DALModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\BLLModule\bin\Debug\DALModule.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\BLLModule\bin\Debug\DALModule.dll.config
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\BLLModule\obj\Debug\BLLModule.csprojResolveAssemblyReference.cache
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\BLLModule\obj\Debug\BLLModule.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\SCADA Demo for MrNghia\BLLModule\obj\Debug\BLLModule.pdb
