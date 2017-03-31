@@ -27,7 +27,7 @@ namespace ClientModule
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            int[] lightIdUsing = new int[] { 1001, 1002, 1003 };
+            int[] lightIdUsing = new int[] { 1001, 1002 };
             LightCore.Init();
             List<LightCore> lightList = LightCore.GetList.Where(l => lightIdUsing.Contains(l.LightId)).ToList();
 
